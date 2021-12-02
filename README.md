@@ -1,6 +1,7 @@
 # GPS-Tracker
 Project files for a third year university project
 
+![alt text](/Output/Render.png)
 
 ## Contents
 * Output files stored in GPS-Tracker/Output/ (last generated gerbers, etc)
